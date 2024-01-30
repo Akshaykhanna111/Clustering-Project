@@ -41,6 +41,20 @@ This project focuses on building an unsupervised machine learning model using th
 - Studied distribution, summary statistics, and outliers for each product across Region and Channel groups.
 - Channel seems to largely dictating the variance in distribution across groups for following products - Fresh, Milk, Grocery, and Detergent Paper
 - Identified key findings related to product distributions and correlations.
+	- For channel 2
+   
+	-> All the products distribution is right skewed, but the tail size have reduced owing to outlier capping
+	-> Strong correlation between following - 
+	1. Grocery and Detergents_Paper
+	2. Milk and Detergents_Paper
+	3. Milk and Grocery
+	
+	For channel 1
+
+	-> All the products distribution is right skewed, but the tail size have reduced owing to outlier capping
+	-> Strong correlation between following - 
+	1. Grocery and Detergents_Paper
+	2. Milk and Grocery
 
 ### Dimensionality Reduction
 
