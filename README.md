@@ -22,7 +22,7 @@ This project focuses on building an unsupervised machine learning model using th
 ### Tools and Libraries
 
 - Python, Pandas, NumPy, Seaborn, Matplotlib
-- Scikit-learn, Imbalanced-learn, Joblib
+- Clustering - KMeans and Hierarchical Clustering
 
 ### Exploratory Data Analysis (EDA)
 
