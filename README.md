@@ -51,7 +51,7 @@ This project focuses on building an unsupervised machine learning model using th
 
 - Utilized K-Means clustering with 5 clusters based on the elbow method.
 - Explored cluster profiles and customer segmentation.
-- Evaluated the model using silhouette score.
+- Evaluated the model using Hierarchical Clustering.
 
 ### Conclusion
 
