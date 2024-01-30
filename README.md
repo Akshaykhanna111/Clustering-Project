@@ -39,6 +39,7 @@ This project focuses on building an unsupervised machine learning model using th
 #### Analysis of Products
 
 - Studied distribution, summary statistics, and outliers for each product across Region and Channel groups.
+- Channel seems to largely dictating the variance in distribution across groups for following products - Fresh, Milk, Grocery, and Detergent Paper
 - Identified key findings related to product distributions and correlations.
 
 ### Dimensionality Reduction
